@@ -6,8 +6,9 @@ A continuación instale el sistema operativo Ubuntu.
   
  
 Realice los pasos según el video que se sugiere en los apuntes.
- 
- 
+ <img src="Snapshot_6.png" width="600" heigh="600">
+ <img src="Snapshot_12.png" width="600" heigh="600">
+ <img src="Snapshot_18.png" width="600" heigh="600"> 
  
 Finaliza la instalación de Ubuntu dentro de la máquina virtual.
  
