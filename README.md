@@ -20,7 +20,9 @@ Lo primero que hice fue actualizar el sistema con los siguientes comandos…
   
 Luego se instalaba Java con el comando:
 Sudo apt-get install default-jdk
+
  <img src="02.png" width="600" heigh="600">
+ 
 Al finalizar este comando termina en esta pantalla. 
 
  <img src="03finalizado-defaultjdk.png" width="600" heigh="600">
@@ -36,6 +38,7 @@ Para que instale la versión 8.
 <img src="05-installversion8.png" width="600" heigh="600">
  
 Vuelvo a comprobar las versiones diferentes instaladas con el comando: ls /usr/lib/jvm  
+
 <img src="06-versiones-openjdk.png" width="600" heigh="600">
 
 ## Paso4. Selección de la versión
